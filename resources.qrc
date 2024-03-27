@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sql/main.sql</file>
+        <file>assets/search.png</file>
+        <file>assets/clear.png</file>
+        <file>assets/user.png</file>
+    </qresource>
+</RCC>
